@@ -1,0 +1,429 @@
+.stc_may22_launch_banners {
+    background-image: url('/cached_uploads/banner-images/home/stc_may22_launch_banners-1920-241a20.png');
+}
+
+@media (max-width: 1255px) {
+    .stc_may22_launch_banners {
+        background-image: url('/cached_uploads/banner-images/home/stc_may22_launch_banners-1255-8ee8cb.png');
+    }
+}
+
+@media (max-width: 991px) {
+    .stc_may22_launch_banners {
+        background-image: url('/cached_uploads/banner-images/home/stc_may22_launch_banners-991-cf23f5.png');
+    }
+}
+
+@media (max-width: 767px) {
+    .stc_may22_launch_banners {
+        background-image: url('/cached_uploads/banner-images/home/stc_may22_launch_banners-767-91f00e.png');
+    }
+}
+
+@media (max-width: 575px) {
+    .stc_may22_launch_banners {
+        background-image: url('/cached_uploads/banner-images/home/stc_may22_launch_banners-575-d8fff6.png');
+    }
+}
+
+@media (max-width: 320px) {
+    .stc_may22_launch_banners {
+        background-image: url('/cached_uploads/banner-images/home/stc_may22_launch_banners-320-56c24e.png');
+    }
+}
+
+.stc_may22_launch_banners-banner-container .timer {
+    font-size: 16px;
+    font-size: inherit;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.stc_may22_launch_banners-banner-container .timer .icon {
+    margin-right: 4px;
+    font-size: inherit;
+}
+
+.stc_may22_launch_banners-banner-container .timer #banner_countdown_389 {
+    color: #fff;
+}
+
+.stc_may22_launch_banners-banner-container .timer .timer_389 {
+    color: #fff;
+}
+
+.stc_may22_launch_banners-banner-container .timer {
+    position: absolute;
+    left: 3.9%;
+    top: 60%;
+}
+
+@media (max-width: 1255px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        position: absolute;
+        left: 2.7%;
+        top: 60%;
+    }
+}
+
+@media (max-width: 991px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        position: absolute;
+        left: 2.5%;
+        top: 64%;
+    }
+}
+
+@media (max-width: 767px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        position: absolute;
+        left: 3.6%;
+        top: 58%;
+    }
+}
+
+@media (max-width: 575px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        position: absolute;
+        left: 4.2%;
+        top: 51%;
+    }
+}
+
+@media (max-width: 320px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        position: absolute;
+        left: 13.6px;
+        top: 65%;
+    }
+}
+
+.stc_may22_launch_banners-banner-container .timer {
+    font-size: 18px;
+}
+
+.stc_may22_launch_banners-banner-container .timer.icon {
+    font-size: 18px;
+}
+
+@media (max-width: 1255px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        font-size: 16px;
+    }
+    .stc_may22_launch_banners-banner-container .timer.icon {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 991px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        font-size: 16px;
+    }
+    .stc_may22_launch_banners-banner-container .timer.icon {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 767px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        font-size: 16px;
+    }
+    .stc_may22_launch_banners-banner-container .timer.icon {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 575px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        font-size: 16px;
+    }
+    .stc_may22_launch_banners-banner-container .timer.icon {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    .stc_may22_launch_banners-banner-container .timer {
+        font-size: 2.7vw;
+    }
+    .stc_may22_launch_banners-banner-container .timer.icon {
+        font-size: 2.7vw;
+    }
+}
+
+.isp_35new {
+    background-image: url('/cached_uploads/banner-images/home/isp_35new-1920-b66168.png');
+}
+
+@media (max-width: 1255px) {
+    .isp_35new {
+        background-image: url('/cached_uploads/1');
+    }
+}
+
+@media (max-width: 991px) {
+    .isp_35new {
+        background-image: url('/cached_uploads/1');
+    }
+}
+
+@media (max-width: 767px) {
+    .isp_35new {
+        background-image: url('/cached_uploads/1');
+    }
+}
+
+@media (max-width: 575px) {
+    .isp_35new {
+        background-image: url('/cached_uploads/banner-images/home/isp_35new-575-6dbd40.png');
+    }
+}
+
+@media (max-width: 320px) {
+    .isp_35new {
+        background-image: url('/cached_uploads/banner-images/home/isp_35new-320-acf3a5.png');
+    }
+}
+
+.isp_35new-banner-container .timer {
+    font-size: 16px;
+    font-size: inherit;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.isp_35new-banner-container .timer .icon {
+    margin-right: 4px;
+    font-size: inherit;
+}
+
+.spec_banner_new {
+    background-image: url('/cached_uploads/banner-images/home/spec_banner_new-1920-0a62c5.png');
+}
+
+@media (max-width: 1255px) {
+    .spec_banner_new {
+        background-image: url('/cached_uploads/banner-images/home/spec_banner_new-1255-3bc652.png');
+    }
+}
+
+@media (max-width: 991px) {
+    .spec_banner_new {
+        background-image: url('/cached_uploads/banner-images/home/spec_banner_new-991-16346b.png');
+    }
+}
+
+@media (max-width: 767px) {
+    .spec_banner_new {
+        background-image: url('/cached_uploads/banner-images/home/spec_banner_new-767-4d1c75.png');
+    }
+}
+
+@media (max-width: 575px) {
+    .spec_banner_new {
+        background-image: url('/cached_uploads/banner-images/home/spec_banner_new-575-0763b4.png');
+    }
+}
+
+@media (max-width: 320px) {
+    .spec_banner_new {
+        background-image: url('/cached_uploads/banner-images/home/spec_banner_new-320-464674.png');
+    }
+}
+
+.spec_banner_new-banner-container .timer {
+    font-size: 16px;
+    font-size: inherit;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.spec_banner_new-banner-container .timer .icon {
+    margin-right: 4px;
+    font-size: inherit;
+}
+
+.home_internships {
+    background-image: url('/cached_uploads/banner-images/home/home_internships-1920.png');
+}
+
+@media (max-width: 575px) {
+    .home_internships {
+        background-image: url('/cached_uploads/banner-images/home/home_internships-575.png');
+    }
+}
+
+.home_internships-banner-container .primary_text {
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #212121;
+}
+
+.home_internships-banner-container .primary_text .offer {
+    background: #ffae00;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 4px 16px;
+    margin-left: 12px;
+    position: relative;
+    bottom: 2px;
+}
+
+.home_internships-banner-container .secondary_text {
+    font-size: 24px;
+    line-height: 1.33;
+    font-weight: 600;
+    color: #666;
+}
+
+.home_internships-banner-container .features_container {
+    margin-top: 24px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #666;
+}
+
+.home_internships-banner-container .features_container .feature {
+    display: flex;
+    align-items: center;
+    color: #484848;
+}
+
+.home_internships-banner-container .features_container .feature img {
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+}
+
+.home_internships-banner-container .features_container .feature+.feature {
+    margin-top: 12px;
+}
+
+.home_internships-banner-container .cta_container {
+    margin-top: auto;
+}
+
+.home_internships-banner-container .cta_container .link {
+    text-decoration: none;
+    color: #0d052b;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.home_internships-banner-container .cta_container .link:hover,
+.home_internships-banner-container .cta_container .link:focus {
+    color: #006bc2;
+    text-decoration: none;
+    outline: none;
+}
+
+.home_internships-banner-container .cta_container .link.focus-visible {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+.home_internships-banner-container .cta_container .link:not([href]) {
+    color: #008bdc;
+}
+
+.home_internships-banner-container .cta_container .link:not([href]):hover,
+.home_internships-banner-container .cta_container .link:not([href]):focus {
+    color: #006bc2;
+    text-decoration: none;
+    outline: none;
+}
+
+.home_internships-banner-container .cta_container .link:not([href]).focus-visible {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+.home_internships-banner-container .cta_container .link [class^="ic-"],
+.home_internships-banner-container .cta_container .link [class*=" ic-"] {
+    vertical-align: middle;
+}
+
+@media (max-width: 991px) {
+    .home_internships-banner-container .primary_text {
+        font-size: 24px;
+        line-height: 1.33;
+        font-weight: 600;
+    }
+    .home_internships-banner-container .primary_text .offer {
+        font-weight: 500;
+        line-height: 1.2;
+        font-size: 10px;
+        padding: 2px 4px;
+        margin-left: 8px;
+    }
+    .home_internships-banner-container .secondary_text {
+        font-weight: 500;
+        margin-top: 12px;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #484848;
+    }
+}
+
+@media (max-width: 575px) {
+    .home_internships-banner-container .primary_text {
+        font-size: 18px;
+    }
+    .home_internships-banner-container .secondary_text {
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 4px;
+    }
+    .home_internships-banner-container .cta_container .link {
+        font-size: 14px;
+    }
+}
+
+.home_jobs_new {
+    background-image: url('/cached_uploads/banner-images/home/home_jobs_new-1920-ba65ee.png');
+}
+
+@media (max-width: 575px) {
+    .home_jobs_new {
+        background-image: url('/cached_uploads/banner-images/home/home_jobs_new-575-947ef9.png');
+    }
+}
+
+@media (max-width: 320px) {
+    .home_jobs_new {
+        background-image: url('/cached_uploads/banner-images/home/home_jobs_new-320-44cf2f.png');
+    }
+}
+
+.home_jobs_new-banner-container .timer {
+    font-size: 16px;
+    font-size: inherit;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.home_jobs_new-banner-container .timer .icon {
+    margin-right: 4px;
+    font-size: inherit;
+}
